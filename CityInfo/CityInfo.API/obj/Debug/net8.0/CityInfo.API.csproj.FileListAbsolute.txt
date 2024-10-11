@@ -31,3 +31,4 @@ T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\obj\Debug
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.pdb
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\obj\Debug\net8.0\ref\CityInfo.API.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\pdf-file.pdf
