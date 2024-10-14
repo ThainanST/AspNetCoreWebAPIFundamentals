@@ -9,7 +9,8 @@ builder.Services.AddControllers(options =>
 {
     // Add support for producing and consuming XML data
     options.ReturnHttpNotAcceptable = true;
-}).AddXmlDataContractSerializerFormatters();
+}).AddNewtonsoftJson()
+    .AddXmlDataContractSerializerFormatters();
 
 builder.Services.AddProblemDetails( options =>
 {
