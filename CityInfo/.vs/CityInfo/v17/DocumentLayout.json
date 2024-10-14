@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\models\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\models\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\models\\pointofinterestforcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileController.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\FileController.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\FileController.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\FileController.cs",
-              "RelativeToolTip": "CityInfo.API\\Controllers\\FileController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwC8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:46:28.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:15:27.923Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T01:17:15.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PointOfInterestForUpdateDTO.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForUpdateDTO.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestForUpdateDTO.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForUpdateDTO.cs",
-              "RelativeToolTip": "CityInfo.API\\Models\\PointOfInterestForUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T22:01:30.28Z",
+              "Title": "CityInfo.API",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T01:17:08.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PointOfInterestForCreationDTO.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForCreationDTO.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Models\\PointOfInterestForCreationDTO.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Models\\PointOfInterestForCreationDTO.cs",
-              "RelativeToolTip": "CityInfo.API\\Models\\PointOfInterestForCreationDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:57:32.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PointsOfInterestController.cs",
               "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
               "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHIAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:38:15.633Z",
+              "WhenOpened": "2024-10-14T01:10:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
+              "RelativeToolTip": "CityInfo.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T00:56:06.468Z",
               "EditorCaption": ""
             }
           ]
