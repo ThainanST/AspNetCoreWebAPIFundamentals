@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\cityinfo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\services\\localmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|t:\\documents\\github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92415712-CF47-49DC-9FE0-CE963DCD3A44}|CityInfo.API\\CityInfo.API.csproj|solutionrelative:cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,59 +29,72 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 196,
+          "DockedWidth": 330,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CityInfo.API\\Properties\\launchSettings.json",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CityInfo.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.json",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.json",
+              "RelativeToolTip": "CityInfo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T01:17:15.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CityInfo.API",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API\\CityInfo.API.csproj",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API\\CityInfo.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T01:17:08.251Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PointsOfInterestController.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "RelativeToolTip": "CityInfo.API\\Controllers\\PointsOfInterestController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAswBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:10:23.294Z",
+              "WhenOpened": "2024-10-17T13:48:17.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeDocumentMoniker": "CityInfo.API\\Program.cs",
-              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Program.cs",
-              "RelativeToolTip": "CityInfo.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAuAAAAAAAAAA==",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.Development.json",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.Development.json",
+              "RelativeToolTip": "CityInfo.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T13:48:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.production.json",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.production.json",
+              "RelativeDocumentMoniker": "CityInfo.API\\appsettings.production.json",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\appsettings.production.json",
+              "RelativeToolTip": "CityInfo.API\\appsettings.production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T13:47:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloudMailService.cs",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Services\\CloudMailService.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Services\\CloudMailService.cs",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Services\\CloudMailService.cs",
+              "RelativeToolTip": "CityInfo.API\\Services\\CloudMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T00:56:06.468Z",
+              "WhenOpened": "2024-10-17T13:41:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalMailService.cs",
+              "DocumentMoniker": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeDocumentMoniker": "CityInfo.API\\Services\\LocalMailService.cs",
+              "ToolTip": "T:\\DOCUMENTS\\GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.API\\Services\\LocalMailService.cs",
+              "RelativeToolTip": "CityInfo.API\\Services\\LocalMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:37:54.191Z",
               "EditorCaption": ""
             }
           ]

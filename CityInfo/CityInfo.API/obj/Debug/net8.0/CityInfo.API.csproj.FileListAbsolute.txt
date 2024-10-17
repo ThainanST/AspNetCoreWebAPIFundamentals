@@ -36,3 +36,13 @@ T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+T:\DOCUMENTS\GITHUB\AspNetCoreWebAPIFundamentals\CityInfo\CityInfo.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
