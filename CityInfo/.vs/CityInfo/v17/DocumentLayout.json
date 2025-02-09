@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "T:\\DOCUMENTS\\30 - GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAFB12D-E556-4D5E-A342-4F3F11F93E4F}|CityInfo.ASP\\CityInfo.ASP.csproj|t:\\documents\\30 - github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.asp\\cityinfo.asp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ABAFB12D-E556-4D5E-A342-4F3F11F93E4F}|CityInfo.ASP\\CityInfo.ASP.csproj|solutionrelative:cityinfo.asp\\cityinfo.asp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAFB12D-E556-4D5E-A342-4F3F11F93E4F}|CityInfo.ASP\\CityInfo.ASP.csproj|t:\\documents\\30 - github\\aspnetcorewebapifundamentals\\cityinfo\\cityinfo.asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABAFB12D-E556-4D5E-A342-4F3F11F93E4F}|CityInfo.ASP\\CityInfo.ASP.csproj|solutionrelative:cityinfo.asp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 330,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CityInfo.ASP",
+              "DocumentMoniker": "T:\\DOCUMENTS\\30 - GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.ASP\\CityInfo.ASP.csproj",
+              "RelativeDocumentMoniker": "CityInfo.ASP\\CityInfo.ASP.csproj",
+              "ToolTip": "T:\\DOCUMENTS\\30 - GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.ASP\\CityInfo.ASP.csproj",
+              "RelativeToolTip": "CityInfo.ASP\\CityInfo.ASP.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T13:59:03.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "T:\\DOCUMENTS\\30 - GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.ASP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CityInfo.ASP\\Properties\\launchSettings.json",
+              "ToolTip": "T:\\DOCUMENTS\\30 - GITHUB\\AspNetCoreWebAPIFundamentals\\CityInfo\\CityInfo.ASP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CityInfo.ASP\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T13:56:51.323Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
