@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+# Ignorar diretórios de build do .NET
+**/obj/
+**/bin/
