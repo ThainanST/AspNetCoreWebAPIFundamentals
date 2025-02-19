@@ -1,6 +1,7 @@
 ﻿using CityInfo.ASP;
 using CityInfo.ASP.Controllers;
 using CityInfo.ASP.Models;
+using CityInfo.ASP.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.JsonPatch.Operations;
@@ -14,6 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using System.Xml;
 
 namespace CityInfo.Tests.unit.controllers
 {
@@ -22,18 +24,24 @@ namespace CityInfo.Tests.unit.controllers
     {
         private readonly PointsOfInterestController _controller;
         private readonly List<CityDto> _originalData;
-
+        private CitiesDataStore _dataStore;
+        
         public PointsOfInterestControllerTest()
         {
-            // Criando o mock do logger
-            var mockLogger = new Mock<ILogger<PointsOfInterestController>>();
+            _dataStore = new CitiesDataStore();
 
-            // Passando o mock para o controlador
-            _controller = new PointsOfInterestController(mockLogger.Object);
+            var mockLogger = new Mock<ILogger<PointsOfInterestController>>();
+            var mockMail = new Mock<LocalMailService>();
+
+            _controller = new PointsOfInterestController(
+                mockLogger.Object,
+                mockMail.Object,
+                _dataStore
+            );
 
             // Deep Copy usando Newtonsoft.Json
             _originalData = JsonConvert.DeserializeObject<List<CityDto>>(
-                JsonConvert.SerializeObject(CitiesDataStore.Current.Cities)
+                JsonConvert.SerializeObject(_dataStore.Cities)
             )!;
         }
 
@@ -42,7 +50,7 @@ namespace CityInfo.Tests.unit.controllers
             Console.WriteLine("Restaurando os dados originais...");
 
             // Restaura os dados originais após cada teste
-            CitiesDataStore.Current.Cities = JsonConvert.DeserializeObject<List<CityDto>>(
+            _dataStore.Cities = JsonConvert.DeserializeObject<List<CityDto>>(
                 JsonConvert.SerializeObject(_originalData)
             )!;
         }

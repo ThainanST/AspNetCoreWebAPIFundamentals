@@ -11,8 +11,8 @@ namespace CitiesInfo.Tests.unit.controllers
         private readonly CitiesDataStore _dataStore;
         public CitiesControllerTest()
         {
-            _controller = new CitiesController();
             _dataStore = new CitiesDataStore();
+            _controller = new CitiesController(_dataStore);
         }
 
         [Fact] // Define um teste unitário
