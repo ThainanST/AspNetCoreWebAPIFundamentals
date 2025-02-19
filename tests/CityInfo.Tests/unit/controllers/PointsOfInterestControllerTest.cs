@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.JsonPatch.Operations;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using Moq;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -23,7 +25,11 @@ namespace CityInfo.Tests.unit.controllers
 
         public PointsOfInterestControllerTest()
         {
-            _controller = new PointsOfInterestController();
+            // Criando o mock do logger
+            var mockLogger = new Mock<ILogger<PointsOfInterestController>>();
+
+            // Passando o mock para o controlador
+            _controller = new PointsOfInterestController(mockLogger.Object);
 
             // Deep Copy usando Newtonsoft.Json
             _originalData = JsonConvert.DeserializeObject<List<CityDto>>(
