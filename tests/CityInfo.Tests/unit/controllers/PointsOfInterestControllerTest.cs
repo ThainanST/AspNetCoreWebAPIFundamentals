@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.JsonPatch.Operations;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Moq;
 using Newtonsoft.Json;
@@ -31,17 +32,45 @@ namespace CityInfo.Tests.unit.controllers
             _dataStore = new CitiesDataStore();
 
             var mockLogger = new Mock<ILogger<PointsOfInterestController>>();
-            var mockMail = new Mock<LocalMailService>();
+            //var configuration = CreateTestConfiguration();
+            var configuration = LoadConfiguration("Development");
+            var mailService = new LocalMailService(configuration);
 
             _controller = new PointsOfInterestController(
                 mockLogger.Object,
-                mockMail.Object,
+                mailService,
                 _dataStore
             );
 
-            // Deep Copy usando Newtonsoft.Json
-            _originalData = JsonConvert.DeserializeObject<List<CityDto>>(
-                JsonConvert.SerializeObject(_dataStore.Cities)
+            _originalData = DeepCopy(_dataStore.Cities);
+        }
+
+        private IConfiguration CreateTestConfiguration()
+        {
+            var inMemorySettings = new Dictionary<string, string?>
+        {
+            { "MailSettings:MailToAddress", "test@example.com" },
+            { "MailSettings:MailFromAddress", "no-reply@example.com" }
+        };
+
+            return new ConfigurationBuilder()
+                .AddInMemoryCollection(inMemorySettings)
+                .Build();
+        }
+
+        private IConfiguration LoadConfiguration(string environment)
+        {
+            return new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .AddJsonFile($"appsettings.{environment}.json", optional: true, reloadOnChange: true)
+                .Build();
+        }
+
+        private List<CityDto> DeepCopy(List<CityDto> source)
+        {
+            return JsonConvert.DeserializeObject<List<CityDto>>(
+                JsonConvert.SerializeObject(source)
             )!;
         }
 
